@@ -16,7 +16,7 @@ _________________________________
  
  Teste da Aplicação
  
- 1. Rodar a aplicação no Google Chrome
+ 1. Rodar a aplicação no Google Chrome, a mesma só possui HTML e CSS
 
  2. Seguindo a Jornada de um usuario iniciante você vai se deparar com a tela de Login, onde deve colocar um email e uma password ficticia (Não tendo um mecanismo de validação ainda)
  
