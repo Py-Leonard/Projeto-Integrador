@@ -2,7 +2,7 @@
 Projeto Integrador Desenvolvimento Web
  
  
-Integrante:
+Integrantes:
 Leonardo do Nascimento Esrenko
 Lidio Soares dos Santos Junior
 Luis Miguel Marques
